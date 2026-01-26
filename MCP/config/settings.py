@@ -70,7 +70,7 @@ class Settings:
     # OpenRouter Configuration (used when llm_provider is "openrouter")
     openrouter_base_url: str = field(default_factory=lambda: os.getenv(
         "OPENROUTER_BASE_URL",
-        "http://openrouter.ai/api/v1"
+        "https://openrouter.ai/api/v1"
     ))
 
     # Ollama Configuration (used when llm_provider is "ollama")
