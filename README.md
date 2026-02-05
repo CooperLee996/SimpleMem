@@ -10,22 +10,18 @@
 
 [![Project Page](https://img.shields.io/badge/🎬_INTERACTIVE_DEMO-Visit_Our_Website-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=4ECDC4&logoColor=white)](https://aiming-lab.github.io/SimpleMem-Page)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2601.02553-b31b1b?style=for-the-badge)](https://arxiv.org/abs/2601.02553)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-SimpleMem-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aiming-lab/SimpleMem)
-[![Stars](https://img.shields.io/github/stars/aiming-lab/SimpleMem?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aiming-lab/SimpleMem)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-
-[![PyPI](https://img.shields.io/badge/PyPI-simplemem-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/simplemem/)
-[![PyPI - Version](https://img.shields.io/pypi/v/simplemem?style=for-the-badge)](https://pypi.org/project/simplemem/)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/simplemem?style=for-the-badge)](https://pypi.org/project/simplemem/)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/simplemem?style=for-the-badge)](https://pypi.org/project/simplemem/)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.02553-b31b1b?style=flat&labelColor=555)](https://arxiv.org/abs/2601.02553)
+[![github](https://img.shields.io/badge/github-SimpleMem-181717?style=flat&labelColor=555&logo=github&logoColor=white)](https://github.com/aiming-lab/SimpleMem)
+[![license](https://img.shields.io/github/license/aiming-lab/SimpleMem?style=flat&label=license&labelColor=555&color=2EA44F)](LICENSE)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat&labelColor=555)](https://github.com/aiming-lab/SimpleMem/pulls)
 <br/>
-[![MCP Server](https://img.shields.io/badge/MCP_Server-mcp.simplemem.cloud-4ECDC4?style=for-the-badge&logo=cloudflare&logoColor=white)](https://mcp.simplemem.cloud)
-[![Claude Skills](https://img.shields.io/badge/Claude_Skills-Supported-FFB000?style=for-the-badge)](https://github.com/aiming-lab/SimpleMem)
-
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KA2zC32M)
-[![WeChat](https://img.shields.io/badge/WeChat-Group-07C160?style=for-the-badge&logo=wechat&logoColor=white)](fig/wechat_logo3.JPG)
-
+[![pypi](https://img.shields.io/pypi/v/simplemem?style=flat&label=pypi&labelColor=555&color=3775A9&logo=pypi&logoColor=white)](https://pypi.org/project/simplemem/)
+[![python](https://img.shields.io/pypi/pyversions/simplemem?style=flat&label=python&labelColor=555&color=3775A9&logo=python&logoColor=white)](https://pypi.org/project/simplemem/)
+[![MCP Server](https://img.shields.io/badge/MCP-mcp.simplemem.cloud-14B8A6?style=flat&labelColor=555)](https://mcp.simplemem.cloud)
+[![Claude Skills](https://img.shields.io/badge/Claude_Skills-supported-FFB000?style=flat&labelColor=555)](https://github.com/aiming-lab/SimpleMem)
+<br/>
+[![Discord](https://img.shields.io/badge/Discord-Join_Chat-5865F2?style=flat&labelColor=555&logo=discord&logoColor=white)](https://discord.gg/KA2zC32M)
+[![WeChat](https://img.shields.io/badge/WeChat-Group-07C160?style=flat&labelColor=555&logo=wechat&logoColor=white)](fig/wechat_logo3.JPG)
 
 </div>
 
