@@ -1,6 +1,7 @@
 """
-Memory Builder - Stage 1: Semantic Structured Compression (Section 3.1)
-
+Memory Builder
+Stage 1: Semantic Structured Compression (Section 3.1)
+& Stage 2: Online Semantic Synthesis (Section 3.2)
 Implements:
 - Implicit semantic density gating: Φ_gate(W) → {m_k} (filters low-density windows)
 - Sliding window processing for dialogue segmentation
@@ -25,6 +26,7 @@ class MemoryBuilder:
     1. Sliding window segmentation
     2. Implicit semantic density gating: Φ_gate(W) → {m_k}
     3. Multi-view indexing: I(m_k) = {s_k, l_k, r_k}
+    4. Intra-session consolidation during write (Section 3.2): by generating enough memory entries to ensure ALL information is captured
     """
     def __init__(
         self,
